@@ -4,6 +4,13 @@
 
 
  Code Guide For All ADS SDK:
+ 
+ Put on gradle file (Important) :
+
+ implementation 'com.github.Grow-Solutions:KtxLoadAds:1.0.0'
+ 
+ 
+ 
 
  Facebook Ads : 
 
